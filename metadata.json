@@ -1,0 +1,6 @@
+{
+  "name": "Hisab - Smart Calculator & Tools",
+  "description": "একটি আধুনিক ও শক্তিশালী মাল্টি-ফাংশনাল ক্যালকুলেটর এবং কনভার্টার ওয়েবসাইট। সাধারণ, বৈজ্ঞানিক, আর্থিক ঋণ ও ইএমআই, একক রূপান্তর, বয়স এবং বকশিশ ক্যালকুলেটর সহ সম্পূর্ণ হিস্টোরি ও বাংলা-ইংরেজি সমর্থন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
